@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Link, NavLink } from "react-router-dom";
-import jccLogo from "@/assets/jcc-logo.jpeg";
+import jccLogo from "@/assets/jcc ca main logo.png";
 import { Menu, X } from "lucide-react";
 
 type NavItem = { label: string; to?: string; href?: string; external?: boolean };

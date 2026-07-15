@@ -4,7 +4,7 @@ import { Users, User, Heart, Baby, BookOpen } from "lucide-react";
 // import youthImg from "@/assets/yout.jpeg";
 import menImg from "@/assets/men.jpeg";
 import womenImg from "@/assets/Women.jpeg";
-import childrenImg from "@/assets/Children.jpeg";
+import childrenImg from "@/assets/CM.png";
 // import discipleshipImg from "@/assets/Discipleship.jpeg";
 import dorcas from "@/assets/Dorcas.jpeg"
 import destiny from "@/assets/destiny-life-ministry.jpeg"
